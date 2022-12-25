@@ -13,14 +13,13 @@
     <a href="https://github.com/karanbhateja/DSA"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <br>
     <a href="https://github.com/karanbhateja/DSA">View Demo</a>
     .
     <a href="https://github.com/karanbhateja/DSA/issues">Report Bug</a>
     .
     <a href="https://github.com/karanbhateja/DSA/issues">Request Feature</a>
   </p>
-</p>
+</p> <br>
 
 ![Contributors](https://img.shields.io/github/contributors/karanbhateja/DSA?color=dark-green) ![Forks](https://img.shields.io/github/forks/karanbhateja/DSA?style=social) ![Stargazers](https://img.shields.io/github/stars/karanbhateja/DSA?style=social) ![Issues](https://img.shields.io/github/issues/karanbhateja/DSA) ![License](https://img.shields.io/github/license/karanbhateja/DSA) 
 
