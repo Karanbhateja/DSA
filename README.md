@@ -13,6 +13,7 @@
     <a href="https://github.com/karanbhateja/DSA"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
+    <br>
     <a href="https://github.com/karanbhateja/DSA">View Demo</a>
     .
     <a href="https://github.com/karanbhateja/DSA/issues">Report Bug</a>
@@ -46,8 +47,3 @@ Don't add code which is already present in the repository.
 
 * **Karan Bhateja** - ** - [Karan Bhateja](https://github.com/karanbhateja/) - **
 
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
