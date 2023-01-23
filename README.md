@@ -35,7 +35,7 @@ Whether you are just starting out with data structures and algorithms or looking
 ## Contributing
 
 Feel free to Contribute.
-Please try to add comments int the code so that everyone can easily understand.
+Please try to add comments in the code so that everyone can easily understand.
 Don't add code which is already present in the repository.
 
 ### Creating A Pull Request
